@@ -7,3 +7,5 @@
 3. Dicee 프로젝트
 
 4. Magic-8-Ball 프로젝트
+
+5. Dice 프로젝트로 layout 연습
